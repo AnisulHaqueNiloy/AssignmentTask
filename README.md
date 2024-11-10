@@ -1,7 +1,7 @@
 **Restaurant Website**
 [Live-Link](https://elaborate-liger-814615.netlify.app/)
 
-This project is a responsive restaurant website built using React, Tailwind CSS, and DaisyUI. It offers a user-friendly interface to showcase a restaurant's menu, highlight popular dishes
+This project is a responsive restaurant website built using ReactJs Tailwind CSS, and DaisyUI. It offers a user-friendly interface to showcase a restaurant's menu, highlight popular dishes
 
 **Key Features**
 
