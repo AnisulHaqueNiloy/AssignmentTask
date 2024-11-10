@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co.com/z2PTx60/burger.jpg",
+    "title": "VEGETABLES BURGER",
+    "desc": "Barbecue Italian cuisine "
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co.com/L6FsMFZ/pizza.jpg",
+    "title": "SPECIAL PIZZA",
+    "desc": "Barbecue Italian cuisine pizza"
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co.com/mvh3KKw/fries.jpg",
+    "title": "SPECIAL FRENH FRIES",
+    "desc": "Barbecue Italian cuisine "
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co.com/bNVH75v/nug.jpg",
+    "title": "CUISINE CHICKEN",
+    "desc": "Japanese Cuisine Chicken"
+  }
+]

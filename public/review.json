@@ -1,0 +1,26 @@
+[
+  {
+    "review": "The most delicious pizza I've ever had! The crust was crispy, the sauce was flavorful, and the cheese was perfectly melted.",
+    "name": "John Doe",
+    "country": "USA",
+    "img": "https://i.ibb.co.com/z2PTx60/burger.jpg"
+  },
+  {
+    "review": "This sushi was incredible! The fish was so fresh and the rice was perfectly cooked. The presentation was beautiful.",
+    "name": "Jane Smith",
+    "country": "Japan",
+    "img": "https://i.ibb.co.com/z2PTx60/burger.jpg"
+  },
+  {
+    "review": "I had the best curry of my life at this restaurant. The spices were perfectly balanced and the flavors were amazing.",
+    "name": "David Lee",
+    "country": "India",
+    "img": "https://i.ibb.co.com/z2PTx60/burger.jpg"
+  },
+  {
+    "review": "The pasta was cooked to perfection and the sauce was so creamy and flavorful. I can't wait to go back and try more dishes.",
+    "name": "Emily Chen",
+    "country": "Italy",
+    "img": "https://i.ibb.co.com/z2PTx60/burger.jpg"
+  }
+]
