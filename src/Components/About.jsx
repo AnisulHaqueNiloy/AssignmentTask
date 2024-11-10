@@ -117,7 +117,7 @@ const About = () => {
 
         <div className="hidden lg:block">
           <img
-            className=" absolute  bottom-24 -right-36 w-48 h-48 "
+            className=" absolute  bottom-24 -right-32 w-48 h-48 "
             src={sideimg}
             alt=""
           />

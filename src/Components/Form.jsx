@@ -7,12 +7,10 @@ const Form = () => {
             <div className="space-y-3">
               <div className="flex items-center gap-3">
                 <div className="bg-red-500 w-[12px] h-[12px]"></div>
-                <h3 className="font-robo text-sm text-red-500">
-                  Book you table
-                </h3>
+                <h3 className="font-robo text-sm text-red-500">Book Now</h3>
               </div>
               <h1 className="text-3xl lg:text-5xl font-nebu text-white">
-                popular food items
+                book your table
               </h1>
               <p className="font-robo text-white/80 md:w-2/3">
                 Enim tempor eget pharetra facilisis sed maecenas adipiscing. Eu

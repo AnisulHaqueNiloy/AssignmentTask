@@ -1,5 +1,6 @@
 import img from "../assets/tomato.png";
 import img2 from "../assets/image4.png";
+import img3 from "../assets/leaf.png";
 import { useEffect, useState } from "react";
 import Slider from "react-slick";
 import { FaStarOfDavid } from "react-icons/fa";
@@ -25,8 +26,13 @@ const Testimonial = () => {
   return (
     <div className="bg-[#FBF7F2] relative">
       <img
-        className="hidden lg:block w-52 h-56 absolute -left-36  bottom-24"
+        className="hidden lg:block w-52 h-56 absolute -left-32 top-28  bottom-24"
         src={img}
+        alt=""
+      />
+      <img
+        className="hidden lg:block w-56 h-56 absolute -right-24 rotate-12 bottom-0  bottom-24"
+        src={img3}
         alt=""
       />
       <div className="md:w-10/12 w-11/12 mx-auto">
@@ -40,7 +46,7 @@ const Testimonial = () => {
                 </h3>
               </div>
               <h1 className="text-3xl lg:text-5xl font-nebu">
-                popular food items
+                What some of my customers say
               </h1>
             </div>
             <div className="hidden md:block">
